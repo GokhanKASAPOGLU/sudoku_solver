@@ -57,7 +57,7 @@ def print_board(board):
             else:
                 print(str(board[i][j]) + " ", end="")
 
-# Sample Sudoku board (replace the 0s with the initial Sudoku puzzle)
+# Sample Sudoku board (write 0 in the empty squares)
 board = [
     [0, 0, 4, 0, 6, 0, 0, 0, 0],
     [2, 0, 5, 0, 0, 1, 8, 0, 0],
