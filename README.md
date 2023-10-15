@@ -15,7 +15,7 @@ board = [
     [2, 0, 5, 0, 0, 1, 8, 0, 0],
     # ... (complete the board)
 ]
-
+```
 
 4. **Explain the Algorithm:** You can provide a brief explanation of the backtracking algorithm used in your program. This will help users understand how the solver works.
 
