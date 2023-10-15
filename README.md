@@ -23,8 +23,6 @@ board = [
 ]
 ```
 
-4. **Explain the Algorithm:** You can provide a brief explanation of the backtracking algorithm used in your program. This will help users understand how the solver works.
-
 ## Algorithm
 
 The program uses a backtracking algorithm to solve Sudoku puzzles. It iterates through the empty cells, tries placing numbers from 1 to 9, and checks for validity. If a valid number is found, it moves on to the next empty cell. If a solution cannot be found, it backtracks to the previous cell and tries a different number. This process continues until a solution is found or determined to be impossible.
